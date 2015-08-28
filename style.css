@@ -1,0 +1,11 @@
+p {
+  text-align: center
+}
+
+p.job-list {
+  font-size: 750%
+}
+
+p.part-time {
+  color: #cf0000
+}
